@@ -1,0 +1,47 @@
+body,
+html {
+    margin: 0px;
+}
+
+canvas {
+    border: 1px solid black;
+}
+
+.center {
+    display: block;
+    margin: 0px;
+}
+
+button {
+    position: absolute;
+    top: 170px;
+    left: 810px;
+    height: 40px;
+    width: 300px;
+    font-size:medium
+}
+
+table {
+    position: absolute;
+    top: 10px;
+    left: 810px;
+}
+
+td {
+    padding: 2px;
+    align-content: center;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+#pl1,
+#pl2,
+#pl3,
+#pl4 {
+    width: 30px;
+}
+
+input {
+    width: 40px;
+}
